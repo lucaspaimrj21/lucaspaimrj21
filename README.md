@@ -2,4 +2,4 @@
 
 
 - 🌱 I’m currently learning Javascript/NodeJS
-- 📫 How to reach me: @lucasppaim (instagram)
+- 📫 How to reach me: lucaspaimrj21@gmail.com
