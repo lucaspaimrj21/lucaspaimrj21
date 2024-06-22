@@ -1,5 +1,5 @@
 ### Olá! 👋
 
 
-- 🌱 I’m currently learning Python/Django/Javascript/NodeJS/
+- 🌱 I’m currently learning Python/FastAPI
 - 📫 How to reach me: lucaspaimrj21@gmail.com
